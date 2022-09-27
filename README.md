@@ -1,7 +1,7 @@
 # Tämä on Kasperin & Nooran häiden virallinen lahjalista
-### Tämän sivun tarkoituksena on vähentää lahjojen kertaantumista hallitsemattomasti ja pitää silmällä kutsuttujen vieraanvaraisuutta.
+### Tämän sivun tarkoituksena on vähentää lahjojen toistumista hallitsemattomasti ja pitää silmällä kutsuttujen vieraanvaraisuutta.
 
-- [ ] pölyn imu ri
-- [x] Kaljaa - Jaakko
-- [ ] Maveräkki
+- [ ] tyysoni pölyn imu ri 
+- [x] 24-Pack Pirkka Olut -> Jaakko "Jako" Metallica
+- [x] POPRILLI® GRILLIMAKKARA -> pete
 
