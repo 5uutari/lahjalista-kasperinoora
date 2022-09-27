@@ -4,4 +4,10 @@
 - [ ] tyysoni pölyn imu ri 
 - [x] 24-Pack Pirkka Olut -> Marjatta Ylämummo
 - [x] POPRILLI® GRILLIMAKKARA -> pete
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [x] lahja -> Herra Lahjanen
+- [ ] bla
 
