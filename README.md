@@ -9,6 +9,6 @@
 - [ ] bla
 - [ ] bla
 - [ ] bla
-- [x] lahja -> Herra Lahjanen
+- [ ] lahja
 - [ ] bla
 
