@@ -1,2 +1,1 @@
-# lahjalista-kasperinoora
-Häiden lahjalista
+###Tämä on Kasperin & Nooran häiden virallinen lahjalista
