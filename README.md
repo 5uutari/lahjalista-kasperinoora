@@ -1,6 +1,6 @@
-# Tämä on Kasperin & Nooran häiden virallinen lahjalista TESTI
+# Tämä on Kasperin & Nooran häiden virallinen lahjalista
 ## [Aseta kaason yhteystiedot tähän (Jenna)]
-### Ohjeet lahjalistan käyttämiseen: Valitse listasta ei varattu toive 
+### Ohjeet lahjalistan käyttämiseen: Ota listasta ylös mieluisat tuotteet, jotka haluat antaa hääparille. Ota yhteys kaasoon ja ilmoita valitsemasi tuotteet. Kaaso tämän jälkeen muokkaa ne listaan varatuiksi merkillä: ☑️.
 
 
 
