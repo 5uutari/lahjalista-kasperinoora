@@ -4,7 +4,8 @@
 
 - [ ] tyysoni pölyn imu ri 
 - [x] 24-Pack Pirkka Olut
-- [x] POPRILLI® GRILLIMAKKARA
+- [x] HK POPRILLI® 
+- [ ] Valio Aura® 
 - [ ] bla
 - [ ] bla
 - [ ] bla
