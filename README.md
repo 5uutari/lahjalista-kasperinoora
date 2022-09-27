@@ -1,8 +1,8 @@
 # Tämä on Kasperin & Nooran häiden virallinen lahjalista TESTI
 ## [Aseta kaason yhteystiedot tähän (Jenna)]
-### Ohjeet lahjalistan käyttämiseen: Valitse listasta ei varattu toive
+### Ohjeet lahjalistan käyttämiseen: Valitse listasta ei varattu toive - [ ] : Ei varattu
 
-- [ ] : Ei varattu
+
 - [x] : Varattu
 
 - [ ] tyysoni pölyn imu ri 
