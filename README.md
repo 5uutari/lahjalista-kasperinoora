@@ -1,5 +1,5 @@
 # Tämä on Kasperin & Nooran häiden virallinen lahjalista
-## [puh. facebook kirjekyyhky (Jenna)]
+##  Yhteystiedot: [puh. facebook kirjekyyhky (Jenna)]
 ### Ohjeet lahjalistan käyttämiseen: Ota listasta ylös mieluisat tuotteet, jotka haluat antaa hääparille. Ota yhteys kaasoon ja ilmoita valitsemasi tuotteet. Kaaso tämän jälkeen muokkaa ne listaan varatuiksi merkillä: ☑️. Kiitos.
 
 
