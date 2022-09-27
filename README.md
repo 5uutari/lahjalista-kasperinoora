@@ -2,8 +2,8 @@
 ## [Aseta kaason yhteystiedot tähän (Jenna)]
 ### Ohjeet lahjalistan käyttämiseen: Valitse listasta ei varattu toive
 
-  [ ] : Ei varattu
-  [x] : Varattu
+- [ ] : Ei varattu
+- [x] : Varattu
 
 - [ ] tyysoni pölyn imu ri 
 - [x] 24-Pack Pirkka Olut
