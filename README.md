@@ -1,6 +1,6 @@
 # Tämä on Kasperin & Nooran häiden virallinen lahjalista
 ## [ASETA TÄHÄN YHTEYSTIEDOT MIELELLÄSI]
-### Tämän sivun tarkoituksena on vähentää lahjojen toistumista hallitsemattomasti ja pitää silmällä kutsuttujen vieraanvaraisuutta.
+### Tervetuloa. Valitse listasta lahja minkä haluat antaa hääparille. Ota yhteys yläpuolella olevaan yhteyshenkilöön ja hän hoitaa loput. Kiitos.
 
 - [ ] tyysoni pölyn imu ri 
 - [x] 24-Pack Pirkka Olut -> Marjatta Ylämummo
