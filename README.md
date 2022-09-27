@@ -1,4 +1,5 @@
 # Tämä on Kasperin & Nooran häiden virallinen lahjalista
+## [ASETA TÄHÄN YHTEYSTIEDOT MIELELLÄSI]
 ### Tämän sivun tarkoituksena on vähentää lahjojen toistumista hallitsemattomasti ja pitää silmällä kutsuttujen vieraanvaraisuutta.
 
 - [ ] tyysoni pölyn imu ri 
