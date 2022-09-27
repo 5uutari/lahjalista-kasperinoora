@@ -4,7 +4,6 @@
 
 
 
-- [ ] tyysoni pölyn imu ri 
 - [x] 24-Pack Pirkka Olut
 - [x] HK POPRILLI® 
 - [ ] Valio Aura® 
